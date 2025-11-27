@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_05/02_05.iml" filepath="$PROJECT_DIR$/Ch02/02_05/02_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_06/02_06.iml" filepath="$PROJECT_DIR$/Ch02/02_06/02_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_07/02_07.iml" filepath="$PROJECT_DIR$/Ch02/02_07/02_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_06/03_06.iml" filepath="$PROJECT_DIR$/Ch03/03_06/03_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_07/03_07.iml" filepath="$PROJECT_DIR$/Ch03/03_07/03_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_04/Begin/Begin.iml" filepath="$PROJECT_DIR$/Ch03/03_04/Begin/Begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_02/Begin/Begin2.iml" filepath="$PROJECT_DIR$/Ch02/02_02/Begin/Begin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_03/Begin/Begin3.iml" filepath="$PROJECT_DIR$/Ch02/02_03/Begin/Begin3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_03/Begin/Begin4.iml" filepath="$PROJECT_DIR$/Ch03/03_03/Begin/Begin4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_01/Begin/Begin5.iml" filepath="$PROJECT_DIR$/Ch03/03_01/Begin/Begin5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_04/Begin/Begin6.iml" filepath="$PROJECT_DIR$/Ch02/02_04/Begin/Begin6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch01/Ch01.iml" filepath="$PROJECT_DIR$/Ch01/Ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_03/End/End.iml" filepath="$PROJECT_DIR$/Ch03/03_03/End/End.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_03/End/End2.iml" filepath="$PROJECT_DIR$/Ch02/02_03/End/End2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_04/End/End3.iml" filepath="$PROJECT_DIR$/Ch02/02_04/End/End3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_04/End/End4.iml" filepath="$PROJECT_DIR$/Ch03/03_04/End/End4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03/03_01/End/End5.iml" filepath="$PROJECT_DIR$/Ch03/03_01/End/End5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02/02_02/End/End6.iml" filepath="$PROJECT_DIR$/Ch02/02_02/End/End6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+    </modules>
+  </component>
+</project>
